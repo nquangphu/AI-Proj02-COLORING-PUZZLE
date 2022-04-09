@@ -1,0 +1,11 @@
+Number of CNFs generated: 1172
+
+Use pysat:
+1 1 1 
+1 0 1 
+0 1 0 
+
+Use A*:
+1 1 1 
+1 0 1 
+0 1 0 
